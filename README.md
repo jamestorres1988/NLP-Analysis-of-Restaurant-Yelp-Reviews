@@ -4,10 +4,10 @@ We will be using the yelp review dataset for this capstone. Here is the [link](h
 
 The project will be divided into 3 phases over 4 notebooks.
 
-- [Notebook 1, Text Cleaning](https://github.com/jamestorres1988/Final-Capstone/blob/master/Notebook_1_out_of_4_Text_Cleaning.ipynb)
-- [Notebook 2, Phase 1](https://drive.google.com/open?id=1HUpfTqdPWjVU9vTC-GC671OUDByNzOQI)
-- [Notebook 3, Phase 2 & 3](https://drive.google.com/open?id=1c73_l8du7hP3gXlp6V_e0AI1esRAtIQ8)
-- [Notebook 4, Topic Extractor Demo](https://drive.google.com/open?id=1m9wZ4mi-ZrhShA8i1PtAoTCTritrekA9)
+- [Notebook 1, Text Cleaning](https://github.com/jamestorres1988/Final-Capstone/blob/master/Notebook_1_out_of_4_Text_Cleaning.ipynb) (Github)
+- [Notebook 2, Phase 1](https://drive.google.com/open?id=1HUpfTqdPWjVU9vTC-GC671OUDByNzOQI) (Best viewed on Google Collab)
+- [Notebook 3, Phase 2 & 3](https://drive.google.com/open?id=1c73_l8du7hP3gXlp6V_e0AI1esRAtIQ8) (Best viewed on Google Collab)
+- [Notebook 4, Topic Extractor Demo](https://drive.google.com/open?id=1m9wZ4mi-ZrhShA8i1PtAoTCTritrekA9) (Best viewed on Google Collab)
 
 For phase 1, we will divide the reviews into positive and negative reviews. To do this, we would first need to perform sentiment analysis on the Yelp reviews. We will apply a supervised learning approach to perform this using the star rating system to train the data. The reason that we are performing sentiment analysis is that we want to allow this model to be expandable to reviews that do not have star ratings such as Twitter or Facebook comments. The goal is to have a fitted model that can predict sentiment of unlabeled reviews. Importing a Twitter or Facebook dataset is outside the scope of this capstone. Instead, we will perform a train/test split on the yelp reviews, then run several supervised learning models (i.e. random forest, logistic regression, etc.) and compare them. For phase 2, we will then apply our trained sentiment classifier to yelp tips, which are unlabelled. Once we do label the yelp tips, we will then integrate the yelp tips into our dataset. <br/>
 
