@@ -1,4 +1,4 @@
-# Restaurant Sentiment Classification and Topic Extraction for Restaurants in Cleveland, Ohio
+# Sentiment Classification and Topic Extraction for Restaurants in Cleveland, Ohio
 
 For the presentation, here's a [link.](https://docs.google.com/presentation/d/1hreNKyj12pi_CUPy3Wa4l0SukEB_H3VzRD7iPLcporA/edit?usp=sharing)
 
